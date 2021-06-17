@@ -1,8 +1,3 @@
-/*!
- * @brief This code implements the "Soma Vizinhos" programming problem
- * @author selan, Walcker
- * @data June, 9th 2021
- */
 #include <iostream>
 using std::cout;
 using std::cin;
